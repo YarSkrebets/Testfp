@@ -1,0 +1,5 @@
+name: TestFp
+version: ${project.version}
+main: ru.sonicxd2.testfp.TestFpPlugin
+commands:
+  action:
